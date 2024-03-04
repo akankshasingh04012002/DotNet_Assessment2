@@ -1,0 +1,14 @@
+/home/knoldus/Desktop/MyAssesmentSolutions/Question2/Question2/bin/Debug/net8.0/Question2
+/home/knoldus/Desktop/MyAssesmentSolutions/Question2/Question2/bin/Debug/net8.0/Question2.deps.json
+/home/knoldus/Desktop/MyAssesmentSolutions/Question2/Question2/bin/Debug/net8.0/Question2.runtimeconfig.json
+/home/knoldus/Desktop/MyAssesmentSolutions/Question2/Question2/bin/Debug/net8.0/Question2.dll
+/home/knoldus/Desktop/MyAssesmentSolutions/Question2/Question2/bin/Debug/net8.0/Question2.pdb
+/home/knoldus/Desktop/MyAssesmentSolutions/Question2/Question2/obj/Debug/net8.0/Question2.GeneratedMSBuildEditorConfig.editorconfig
+/home/knoldus/Desktop/MyAssesmentSolutions/Question2/Question2/obj/Debug/net8.0/Question2.AssemblyInfoInputs.cache
+/home/knoldus/Desktop/MyAssesmentSolutions/Question2/Question2/obj/Debug/net8.0/Question2.AssemblyInfo.cs
+/home/knoldus/Desktop/MyAssesmentSolutions/Question2/Question2/obj/Debug/net8.0/Question2.csproj.CoreCompileInputs.cache
+/home/knoldus/Desktop/MyAssesmentSolutions/Question2/Question2/obj/Debug/net8.0/Question2.dll
+/home/knoldus/Desktop/MyAssesmentSolutions/Question2/Question2/obj/Debug/net8.0/refint/Question2.dll
+/home/knoldus/Desktop/MyAssesmentSolutions/Question2/Question2/obj/Debug/net8.0/Question2.pdb
+/home/knoldus/Desktop/MyAssesmentSolutions/Question2/Question2/obj/Debug/net8.0/Question2.genruntimeconfig.cache
+/home/knoldus/Desktop/MyAssesmentSolutions/Question2/Question2/obj/Debug/net8.0/ref/Question2.dll

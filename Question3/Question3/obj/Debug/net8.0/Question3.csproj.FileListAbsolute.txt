@@ -1,0 +1,14 @@
+/home/knoldus/Desktop/MyAssesmentSolutions/Question3/Question3/bin/Debug/net8.0/Question3
+/home/knoldus/Desktop/MyAssesmentSolutions/Question3/Question3/bin/Debug/net8.0/Question3.deps.json
+/home/knoldus/Desktop/MyAssesmentSolutions/Question3/Question3/bin/Debug/net8.0/Question3.runtimeconfig.json
+/home/knoldus/Desktop/MyAssesmentSolutions/Question3/Question3/bin/Debug/net8.0/Question3.dll
+/home/knoldus/Desktop/MyAssesmentSolutions/Question3/Question3/bin/Debug/net8.0/Question3.pdb
+/home/knoldus/Desktop/MyAssesmentSolutions/Question3/Question3/obj/Debug/net8.0/Question3.GeneratedMSBuildEditorConfig.editorconfig
+/home/knoldus/Desktop/MyAssesmentSolutions/Question3/Question3/obj/Debug/net8.0/Question3.AssemblyInfoInputs.cache
+/home/knoldus/Desktop/MyAssesmentSolutions/Question3/Question3/obj/Debug/net8.0/Question3.AssemblyInfo.cs
+/home/knoldus/Desktop/MyAssesmentSolutions/Question3/Question3/obj/Debug/net8.0/Question3.csproj.CoreCompileInputs.cache
+/home/knoldus/Desktop/MyAssesmentSolutions/Question3/Question3/obj/Debug/net8.0/Question3.dll
+/home/knoldus/Desktop/MyAssesmentSolutions/Question3/Question3/obj/Debug/net8.0/refint/Question3.dll
+/home/knoldus/Desktop/MyAssesmentSolutions/Question3/Question3/obj/Debug/net8.0/Question3.pdb
+/home/knoldus/Desktop/MyAssesmentSolutions/Question3/Question3/obj/Debug/net8.0/Question3.genruntimeconfig.cache
+/home/knoldus/Desktop/MyAssesmentSolutions/Question3/Question3/obj/Debug/net8.0/ref/Question3.dll

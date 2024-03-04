@@ -1,0 +1,14 @@
+/home/knoldus/Desktop/MyAssesmentSolutions/Question4/Question4/bin/Debug/net8.0/Question4
+/home/knoldus/Desktop/MyAssesmentSolutions/Question4/Question4/bin/Debug/net8.0/Question4.deps.json
+/home/knoldus/Desktop/MyAssesmentSolutions/Question4/Question4/bin/Debug/net8.0/Question4.runtimeconfig.json
+/home/knoldus/Desktop/MyAssesmentSolutions/Question4/Question4/bin/Debug/net8.0/Question4.dll
+/home/knoldus/Desktop/MyAssesmentSolutions/Question4/Question4/bin/Debug/net8.0/Question4.pdb
+/home/knoldus/Desktop/MyAssesmentSolutions/Question4/Question4/obj/Debug/net8.0/Question4.GeneratedMSBuildEditorConfig.editorconfig
+/home/knoldus/Desktop/MyAssesmentSolutions/Question4/Question4/obj/Debug/net8.0/Question4.AssemblyInfoInputs.cache
+/home/knoldus/Desktop/MyAssesmentSolutions/Question4/Question4/obj/Debug/net8.0/Question4.AssemblyInfo.cs
+/home/knoldus/Desktop/MyAssesmentSolutions/Question4/Question4/obj/Debug/net8.0/Question4.csproj.CoreCompileInputs.cache
+/home/knoldus/Desktop/MyAssesmentSolutions/Question4/Question4/obj/Debug/net8.0/Question4.dll
+/home/knoldus/Desktop/MyAssesmentSolutions/Question4/Question4/obj/Debug/net8.0/refint/Question4.dll
+/home/knoldus/Desktop/MyAssesmentSolutions/Question4/Question4/obj/Debug/net8.0/Question4.pdb
+/home/knoldus/Desktop/MyAssesmentSolutions/Question4/Question4/obj/Debug/net8.0/Question4.genruntimeconfig.cache
+/home/knoldus/Desktop/MyAssesmentSolutions/Question4/Question4/obj/Debug/net8.0/ref/Question4.dll
